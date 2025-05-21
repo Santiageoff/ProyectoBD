@@ -89,5 +89,5 @@ Abrir Script Indices Crea vistas que facilitan las consultas más frecuentes.
 
 1. **Clonar el repositorio**
 ```bash
-git clone 
+git clone https://github.com/Santiageoff/ProyectoBD.git
 ```
