@@ -1,0 +1,127 @@
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (1, 'leche', 40, 1, 5);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (2, 'queso', 60, 1, 8);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (3, 'pepsi', 150, 2, 31);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (4, 'colombiana', 110, 2, 30);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (5, 'soya', 100, 3, 16);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (6, 'salsa de soya', 5, 3, 14);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (7, 'agua con gas', 45, 4, 29);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (8, 'huevos', 350, 4, 6);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (9, 'caviar', 50, 5, 14);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (10, 'mojarra', 120, 5, 10);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (11, 'trucha', 50, 5, 18);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (12, 'bagre', 70, 5, 11);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (13, 'carne', 20, 6, 9);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (14, 'papas fritas', 130, 7, 25);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (15, 'coca cola', 270, 7, 27);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (16, 'carne', 85, 8, 8);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (17, 'pollo', 100, 8, 12);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (18, 'pasta larga', 120, 9, 8);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (19, 'pasta conchas', 60, 8, 19);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (20, 'pasta tornillos', 20, 19, 14);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (21, 'arroz', 300, 10,7);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (22, 'carne', 65, 11, 26);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (23, 'tomate', 250, 11,1);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (24, 'leche deslac', 30, 12, 21);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (25, 'carne', 80, 13, 22);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (26, 'poker', 150, 14, 32);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (27, 'aguila', 200, 14, 33);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (28, 'arracacha', 10, 15, 19);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (29, 'cebolla', 300, 15, 24);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (30, 'queso', 50, 16, 23);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (31, 'queso parmesano', 35, 16, 8);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (32, 'pan', 205, 17, 4);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (33, 'salchicha', 80, 18, 25);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (34, 'pepperoni', 25, 18, 21);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (35, 'guascas', 20, 19, 13);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (36, 'ajo', 60, 19, 20);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (37, 'especias', 125, 20, 17);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (38, 'naranjas', 95, 20, 16);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (39, 'frijoles', 50, 21, 15);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (40, 'papa', 200, 21, 2);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (41, 'arepas', 70, 22, 3);
+
+INSERT INTO inventario (ID_PRODUCTO, NOMBRE, CANTIDAD, ID_PROVEEDOR, id_plato)
+VALUES (42, 'papas paquete', 30, 22, 22);
+
+

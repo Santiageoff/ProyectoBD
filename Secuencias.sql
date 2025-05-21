@@ -1,0 +1,43 @@
+CREATE SEQUENCE secuencia_id_cliente
+START WITH 100031 
+INCREMENT BY 1;    
+
+CREATE SEQUENCE secuencia_id_factura
+START WITH 63  
+INCREMENT BY 1;    
+
+CREATE SEQUENCE secuencia_id_habitacion
+START WITH 41 
+INCREMENT BY 1;   
+
+CREATE SEQUENCE secuencia_id_producto
+START WITH 43  
+INCREMENT BY 1;  
+
+CREATE SEQUENCE secuencia_id_limpieza
+START WITH 21 
+INCREMENT BY 1;
+
+CREATE SEQUENCE secuencia_id_pedidos
+START WITH 31
+INCREMENT BY 1;
+
+CREATE SEQUENCE secuencia_id_proveedores
+START WITH 23
+INCREMENT BY 1;
+
+CREATE SEQUENCE secuencia_id_reservaciones
+START WITH 31
+INCREMENT BY 1;
+
+CREATE SEQUENCE secuencia_id_plato
+START WITH 34
+INCREMENT BY 1;
+
+CREATE SEQUENCE secuencia_id_transporte
+START WITH 21
+INCREMENT BY 1;
+
+CREATE SEQUENCE secuencia_id_valoracion
+START WITH 31
+INCREMENT BY 1;
