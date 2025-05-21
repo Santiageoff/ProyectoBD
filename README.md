@@ -77,11 +77,11 @@ Los diagramas Entidad-Relación se encuentran normalizados hasta 3FN y están di
 
 ## Catálogo de Scripts
 
-Ejecutar BD_Hotel_Tablas Crea todas las tablas del sistema. 
-Abrir carpeta BD_Datos  Inserta los datos requeridos por cada tabla. 
-Abrir Script Secuencias Genera secuencias para campos como IDs. 
-Abrir Script Vistas Mejora las consultas mediante índices en columnas frecuentes. 
-Abrir Script Indices Crea vistas que facilitan las consultas más frecuentes.
+- Ejecutar BD_Hotel_Tablas Crea todas las tablas del sistema. 
+- Abrir carpeta BD_Datos  Inserta los datos requeridos por cada tabla. 
+- Abrir Script Secuencias Genera secuencias para campos como IDs. 
+- Abrir Script Vistas Mejora las consultas mediante índices en columnas frecuentes. 
+- Abrir Script Indices Crea vistas que facilitan las consultas más frecuentes.
 
 ---
 
